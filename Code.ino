@@ -454,7 +454,7 @@ void loop() {
 
   if (digitalRead(pinBoto) == LOW) {
     pantalla = pantalla + 1;
-    delay(150);
+    delay(400);
   }
 
   if (pantalla == 0 || pantalla > 6 ) {
