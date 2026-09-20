@@ -31,6 +31,8 @@ AI reviewed and checked the code, solved issues and proposed upgrades. Also wrot
 
 *Not necessary
 
+**Before 3D printing, make sure you components fit the 3D files, some of them might have different sizes. If they do not, feel free to modify whatever you need.**
+
 # 💸 BOM:
 
 | Component            | Quantity | Price per Unit | Total Price | Link                                                              |
