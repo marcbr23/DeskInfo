@@ -478,7 +478,7 @@ void loop() {
   }
 
 
-  else if (pantalla == 6) {
+  else if (pantalla == 4) {
     quotescreen();
     canvi = 4;
   }
