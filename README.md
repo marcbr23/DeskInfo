@@ -59,6 +59,10 @@ Maybe it is not the optimal way to do this project. When I bought the CYD, it co
 | BUTTON PIN1   | CN1 IO22  |
 | BUTTON PIN2   | P3 GND    |
 
+<img width="337" height="328" alt="image" src="https://github.com/user-attachments/assets/78bc1204-a7be-4f74-b9c9-682f13a158ca" />
+<img width="337" height="328" alt="image" src="https://github.com/user-attachments/assets/7de4b3c2-30f6-40ac-a77b-cb1ed9f6b677" />
+
+
 # 🌟 Thank You:
 
 Special thank you to the next projects.
@@ -72,6 +76,8 @@ CYD Mock-Board 3D file: https://www.printables.com/model/1627410-cyd-mock-board/
 DHT11 3D file: https://www.tinkercad.com/things/f1tysLlpl9F
 
 Button 3D file: https://www.thingiverse.com/thing:2988249
+
+Schematics: https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tree/main/OriginalDocumentation/5-Schematic
 
 # 🧰 Mounting Guide:
 
