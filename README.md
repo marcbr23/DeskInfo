@@ -1,11 +1,14 @@
 # DeskInfo
 
-DeskInfo is a desk element that can give you information in a unique way. 
+DeskInfo is a desk element that can give you information in a unique way. I made it so you can take a look about important data in a moment. It also lso looks cool on my desk :).
 
 <img width="4000" height="3000" alt="PXL_20260920_122527494 MACRO_FOCUS MP" src="https://github.com/user-attachments/assets/64179fe1-1529-4680-b147-49f04a6d4287" />
 
+<img width="508" height="426" alt="image" src="https://github.com/user-attachments/assets/4fe5d023-a778-4349-adeb-0f02a538c399" />
 
-Note: The STEP file does not have the 3D case because the 3D files are closed source on MakerWorld.
+
+
+Note: The STEP file does not have the 3D case because the 3D files are closed source on MakerWorld. The link for printing it is on the "thank you" section.
 
 
 # 🖥️ Features:
