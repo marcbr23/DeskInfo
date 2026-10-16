@@ -48,7 +48,7 @@ AI reviewed and checked the code, solved issues and proposed upgrades. Also wrot
 |                      |          |                | ≈29.6€      | *The electronic components links are not exactly the ones I used. |
 
 Maybe it is not the optimal way to do this project. When I bought the CYD, it costed 50% less. Electronics price have increased a lot.
-Some of the components, aren't the same I used, obviously, I used a DHT and a button, but I mean maybe no the exact same model.
+Some of the components, aren't the same I used. Obviously, I used a DHT11 and a button, but maybe not the exact same model.
 
 # ⚡  Pinout:
 
