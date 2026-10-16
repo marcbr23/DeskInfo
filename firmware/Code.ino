@@ -61,11 +61,11 @@ int newnum = 50;
 
 // Declare API links
 
-String weatherapi = "WEATHERAPI_URL";
-String timeapi = "TIMEAPI_URL";
+String weatherapi = "https://api.weatherapi.com/v1/forecast.json?key='YOUR_API_KEY'&q='YOUR_CITY'&days=4&aqi=no&alerts=yes";
+String timeapi = "https://timeapi.io/api/v1/time/current/zone?timezone='YOUR_TIMEZONE_AND_CITY'";
 String jokeapi = "https://icanhazdadjoke.com";
 String quoteapi = "https://zenquotes.io/api/random";
-String hackapi = "HACKATIME_URL";
+String hackapi = "https://hackatime.hackclub.com/api/hackatime/v1/users/current/stats/last_7_days?api_key='YOUR_API_KEY'";
 
 
 
