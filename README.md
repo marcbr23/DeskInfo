@@ -81,7 +81,7 @@ Button 3D file: https://www.thingiverse.com/thing:2988249
 
 Schematics: https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tree/main/OriginalDocumentation/5-Schematic
 
-Lopaka: lopaka.app
+Lopaka: https://lopaka.app
 
 # 🧰 Mounting Guide:
 
