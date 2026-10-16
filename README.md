@@ -81,6 +81,8 @@ Button 3D file: https://www.thingiverse.com/thing:2988249
 
 Schematics: https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tree/main/OriginalDocumentation/5-Schematic
 
+Lopaka: lopaka.app
+
 # 🧰 Mounting Guide:
 
 1. Wire everything and insert the CYD into its case with the 3D printed screws.
