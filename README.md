@@ -60,8 +60,9 @@ Some of the components, aren't the same I used, obviously, I used a DHT and a bu
 | BUTTON PIN1   | CN1 IO22  |
 | BUTTON PIN2   | P3 GND    |
 
-<img width="337" height="328" alt="image" src="https://github.com/user-attachments/assets/78bc1204-a7be-4f74-b9c9-682f13a158ca" />
-<img width="337" height="328" alt="image" src="https://github.com/user-attachments/assets/7de4b3c2-30f6-40ac-a77b-cb1ed9f6b677" />
+<img width="468" height="371" alt="imatge" src="https://github.com/user-attachments/assets/4c704ce5-9492-42eb-9728-d111767dc4b4" />
+<img width="335" height="361" alt="imatge" src="https://github.com/user-attachments/assets/e2cfbabe-7376-4205-872b-65e466b61775" />
+
 
 
 # 🌟 Thank You:
