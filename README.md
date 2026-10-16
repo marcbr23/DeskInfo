@@ -8,7 +8,7 @@ DeskInfo is a desk element that can give you information in a unique way. I made
 
 
 
-Note: The STEP file does not have the 3D case because the 3D files are closed source on MakerWorld. The link for printing it is on the "thank you" section.
+Note: The .STEP file does not have the 3D case because the 3D files are closed source on MakerWorld. The link for printing it is on the "thank you" section. The project is functional without that case but the stand is designed for the use with it.
 
 
 # 🖥️ Features:
@@ -48,6 +48,7 @@ AI reviewed and checked the code, solved issues and proposed upgrades. Also wrot
 |                      |          |                | ≈29.6€      | *The electronic components links are not exactly the ones I used. |
 
 Maybe it is not the optimal way to do this project. When I bought the CYD, it costed 50% less. Electronics price have increased a lot.
+Some of the components, aren't the same I used, obviously, I used a DHT and a button, but I mean maybe no the exact same model.
 
 # ⚡  Pinout:
 
