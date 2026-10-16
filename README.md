@@ -1,6 +1,8 @@
 # DeskInfo
 
-DeskInfo is a desk element that can give you information in a unique way. I made it so you can take a look about important data in a moment. It also lso looks cool on my desk :).
+DeskInfo is a desk element that can give you information in a unique way. I made it so you can take a look about important data in a moment. It also looks cool on my desk :). It will be sitting in my desk allowing me to check quickly important (or not so important) information quickly.
+
+Demo: https://youtu.be/bCdLNaYsPjg
 
 <img width="4000" height="3000" alt="PXL_20260920_122527494 MACRO_FOCUS MP" src="https://github.com/user-attachments/assets/64179fe1-1529-4680-b147-49f04a6d4287" />
 
@@ -40,15 +42,15 @@ AI reviewed and checked the code, solved issues and proposed upgrades. Also wrot
 
 | Component            | Quantity | Price per Unit | Total Price | Link                                                              |
 |----------------------|----------|----------------|-------------|-------------------------------------------------------------------|
-| ESP32-2432S028       | 1        | ≈23.8€         | ≈23.8€      | https://es.aliexpress.com/item/1005012152927761.html *            |
-| USB-C to USB-C elbow | 1        | ≈2.71          | ≈2.71€      | https://es.aliexpress.com/item/1005012446355987.html *            |
-| Button               | 1        | ≈1.16          | ≈1.16€      | https://es.aliexpress.com/item/1005008653041072.html *            |
-| DHT-11               | 1        | ≈1.16          | ≈1.16€      | https://es.aliexpress.com/item/1005007636012583.html *            |
-| 3D printing filament | ≈50g     | ≈15€           | ≈0.75€      | https://www.amazon.es/eSUN-Filament-1-8mm-Black-Printer/          |
-|                      |          |                | ≈29.6€      | *The electronic components links are not exactly the ones I used. |
+| ESP32-2432S028       | 1        | ≈23.8€ / 26.8$        | ≈23.8€ / 26.8$      | https://es.aliexpress.com/item/1005012152927761.html *            |
+| USB-C to USB-C elbow | 1        | ≈2.71€ / 3.05$          | ≈2.71€ / 3.05$      | https://es.aliexpress.com/item/1005012446355987.html *            |
+| Button               | 1        | ≈1.16€ / 1.30$          | ≈1.16€ / 1.30$      | https://es.aliexpress.com/item/1005008653041072.html *            |
+| DHT-11               | 1        | ≈1.16€ / 1.30$          | ≈1.16€ / 1.30$      | https://es.aliexpress.com/item/1005007636012583.html *            |
+| 3D printing filament | ≈50g     | ≈15€ / 16.88$           | ≈0.75€ / 0.84$     | https://www.amazon.es/eSUN-Filament-1-8mm-Black-Printer/          |
+|                      |          |                | ≈29.6€ / 33.3$     | *The electronic components links are not exactly the ones I used. |
 
 Maybe it is not the optimal way to do this project. When I bought the CYD, it costed 50% less. Electronics price have increased a lot.
-Some of the components, aren't the same I used. Obviously, I used a DHT11 and a button, but maybe not the exact same model.
+Some of the components, aren't the same I used. Obviously, I used a DHT11 and a button, but maybe not the exact same model. The prices are for when you buy only one component, if you buy them by bulk or in packs it would be significantly cheaper.
 
 # ⚡  Pinout:
 
